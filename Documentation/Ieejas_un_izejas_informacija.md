@@ -1,3 +1,4 @@
+## Ieejas un izejas informacija
 1. Ieejas informācijas apraksts
 Sistēmā tiks nodrošināta šādas ieejas informācijas apstrāde.
 1. Informācija par lietotāju sastāvēs no šādiem datiem.
