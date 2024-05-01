@@ -34,9 +34,7 @@ Unity packages and assets:
   
 
 ## Uzstādīšanas instrukcijas
-1. Instalēt ZIP failu no projekta GameFiles ()
+1. Instalēt ZIP failu no projekta
 2. Izvilkt no ZIP faila (Piem. 7Zip, WinRAR)
-3. Atvērt mapi
+3. Atvērt mapi UncannySpaces
 4. Atvērt UncannySpaces.exe
-  
-:information_source: *Norādām veidu, kā izmantojot repozitoriju var tikt pie strādājoša projekta uz citas ierīces, ja nepieciešams pievieno arī datubāzes dump file un arī default user/password*
