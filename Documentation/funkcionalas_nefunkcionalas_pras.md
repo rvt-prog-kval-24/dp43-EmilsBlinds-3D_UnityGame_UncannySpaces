@@ -34,8 +34,8 @@
     * Entītiju lokācijas maiņu, kad uz to spēlētājs skatās pietiekami ilgi.
 
 Nefunkcionālās prasības
-    * Sistēmas saskarnes valodai ir jābūt angļu valodai.
-    * Jānodrošina spēles dinamisku pielāgošanos ekrāna izmēriem.
-    * Interfeisam ir jābūt izskatīgam un viegli lietojamam.
-    * Tekstam ir jābūt viegli salasāmam.
-    * Dizainam jābūt piemērotam šausmu spēlei.
+ * Sistēmas saskarnes valodai ir jābūt angļu valodai.
+ * Jānodrošina spēles dinamisku pielāgošanos ekrāna izmēriem.
+ * Interfeisam ir jābūt izskatīgam un viegli lietojamam.
+ * Tekstam ir jābūt viegli salasāmam.
+ * Dizainam jābūt piemērotam šausmu spēlei.
