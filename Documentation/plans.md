@@ -1,1 +1,0 @@
-Spēlei būs pievenotas jaunas mapes, vecās uzlabotas, jaunas entītiju funkcijas, jaunas spēlētāju funkcijas, inventāra saskarne, kur varēs redzēt paņemtos priekšmetus, jaunas animācijas gan spēlētājam, gan entītijām, jaunas spēles mehānikas, kā piemēram, nogurums, uzlabota lietotāja saskarne, kontroles iestatījumi, un grafikas kvalitātes uzlabojumi.
