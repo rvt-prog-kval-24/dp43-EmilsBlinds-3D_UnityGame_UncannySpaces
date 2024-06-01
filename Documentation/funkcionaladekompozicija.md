@@ -1,6 +1,6 @@
 1. Lietotāju interfeiss – lietotājs var vadīties pār galveno izvēlni, izvēloties mapi, apskatīt
 kontroles un spēles pamācibu, un uzsākt spēli.
-  1. Opcijas – atverot opcijas izvēlni, lietotājs var iet uz kontroles sadaļu, iestatījumu
+  * Opcijas – atverot opcijas izvēlni, lietotājs var iet uz kontroles sadaļu, iestatījumu
 sadaļu, un atsākt spēli.
 2. Spēlētājs – lietotājs uzsākot spēli, var skatīties, staigāt, lekt un skriet apkārt pa mapi 3
 dimensijās, spēlētājam skrienot patērējās enerģija. Spēlētājs var darboties ar objektiem un
