@@ -14,4 +14,4 @@ vairākiem priekšmetiem.
 * “Player” ir saistīts ar entītiju “SmileyMonster” ar viens pret daudziem, jo pastāv vairāku
 tādu entītiju.
 * “Player” ir saistīts ar “WitchMonster” ar viens pret vienu, jo ir tikai viena šāda entītija.
-* “Player” ir saistīts ar “StatueMonster” ar viens pret vienu, jo ir tikai viena šāda entītija
+* “Player” ir saistīts ar “StatueMonster” ar viens pret vienu, jo ir tikai viena šāda entītija.
