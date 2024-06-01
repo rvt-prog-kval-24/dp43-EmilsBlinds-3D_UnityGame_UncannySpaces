@@ -2,4 +2,4 @@
   <img src="https://github.com/EmilsBlinds/UncannySpaces/blob/master/Documentation/usecasediagramma_kvaldarbs.png" width="700" title="hover text">
 </p>
 
-Lietotājs kā spēlētājs, var izvēlēties mapi, kurā viņš spēles, staigāt pa izvēlēto mapi, meklēt izeju, pacelt objektus, darboties ar mapi, izvairīties no entītijām, skriet nospiežot Shift, un izbēgt, pabeidzot spēli izvēlētajā mapē.
+Lietotājs kā spēlētājs, apskatīt kontroles, pamācību atvērt opcijas, iestatījumus, un izvēlēties mapi, kurā viņš spēles, staigāt pa izvēlēto mapi, meklēt izeju, pacelt objektus, darboties ar mapi, izvairīties no entītijām, skriet nospiežot Shift, un izbēgt, pabeidzot spēli izvēlētajā mapē.
