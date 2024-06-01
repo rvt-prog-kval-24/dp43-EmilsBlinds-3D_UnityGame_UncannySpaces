@@ -47,7 +47,7 @@ zaudēšanas ekrānu.
    4. Entītiju parādīšanos mapē, pēc priekšmeta paņemšanas.
    5. Entītiju lokācijas maiņu, kad uz to spēlētājs skatās pietiekami ilgi.
 
-Nefunkcionālās prasības
+## Nefunkcionālās prasības
  * Sistēmas saskarnes valodai ir jābūt angļu valodai.
  * Jānodrošina spēles dinamisku pielāgošanos ekrāna izmēriem.
  * Interfeisam ir jābūt izskatīgam un viegli lietojamam.
