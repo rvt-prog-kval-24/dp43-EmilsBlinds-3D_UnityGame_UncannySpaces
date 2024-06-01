@@ -1,6 +1,6 @@
 ## Funkcionālās prasības
 1. Jānodrošina iespēja lietotājam pārvietoties lietotāja interfeisa.
-   1.1. Jābūt korektai interfeisa navigācijai.
+   	1.1. Jābūt korektai interfeisa navigācijai.
    1.2. Noklikšķinot Exit, jāiziet no spēles.
    1.3. Noklikšķinot Play, jāaiziet uz mapes izvēlni.
    1.4. Noklikšķinot Controls, jāaiziet uz vadības lapu.
